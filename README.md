@@ -39,14 +39,13 @@ Before running the scripts, make sure you have downloaded the model you plan to 
 
 It’s recommended to use a **virtual environment (venv)** to isolate dependencies.
 
-#### 🪟 Windows (PowerShell)
+#### Windows (PowerShell)
 ```bash
 python -m venv venv
-.
 env\Scripts\activate
 ```
 
-#### 🍎 macOS / 🐧 Linux
+#### macOS / Linux
 ```bash
 python3 -m venv venv
 source venv/bin/activate
